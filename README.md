@@ -9,12 +9,12 @@ Este documento contiene la **referencia completa de comandos Markdown**, organiz
 Markdown usa el símbolo `#` para crear títulos jerárquicos.
 
 ```markdown
-# Título 1 ---
-## Título 2 ----
-### Título 3 ---
-#### Título 4 ---
-##### Título 5 ---
-###### Título 6 ---
+# Título 1 
+## Título 2 
+### Título 3 
+#### Título 4 
+##### Título 5 
+###### Título 6 
 
 ---
 
