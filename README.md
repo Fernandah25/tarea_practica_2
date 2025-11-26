@@ -16,11 +16,6 @@ Markdown usa el símbolo `#` para crear títulos jerárquicos.
 ##### Título 5
 ###### Título 6
 
-Por ejemplo
-# Proyecto Final
-## Instalación
-### Requisitos previos
-
 ---
 
 ### 2. Formato de texto 
