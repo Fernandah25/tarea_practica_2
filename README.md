@@ -84,14 +84,14 @@ Con titulo
 
 ---
 
-####### 6. Código
+###### 6. Código
 
 Se utiliza para mostrar comandos, ejemplos de programación o fragmentos de código.
 
-Ejemplo codigo en linea 
+#Ejemplo codigo en linea 
 `console.log("Hola mundo");`
 
-Ejemplo bloques de código
+#Ejemplo bloques de código
 ```javascript
 function saludo() {
   console.log("Hola desde JS");
@@ -100,10 +100,10 @@ saludo();
 
 ---
 
-####### 7. Tablas  
+###### 7. Tablas  
 Sirven para organizar datos en filas y columnas.
 
-# Ejemplo  
+## Ejemplo  
 
 ```markdown
 | Nombre | Edad | País   |
@@ -111,11 +111,11 @@ Sirven para organizar datos en filas y columnas.
 | Ana    | 20   | México |
 | Luis   | 22   | Perú   |
 
-####### 8. Líneas divisorias
+###### 8. Líneas divisorias
 
 Separan secciones dentro de un documento.
 
-## Ejemplo 
+### Ejemplo 
 ---
 ***
 ___
@@ -126,7 +126,7 @@ ___
 
 Permite mostrar caracteres que normalmente generan formato.
 
-### Ejemplo
+#### Ejemplo
 
 \*No es cursiva\*
 \# No es un título
