@@ -100,10 +100,10 @@ saludo();
 
 ---
 
-######## 7. Tablas  
+####### 7. Tablas  
 Sirven para organizar datos en filas y columnas.
 
-Ejemplo  
+# Ejemplo  
 
 ```markdown
 | Nombre | Edad | País   |
@@ -111,22 +111,22 @@ Ejemplo
 | Ana    | 20   | México |
 | Luis   | 22   | Perú   |
 
-######### 8. Líneas divisorias
+####### 8. Líneas divisorias
 
 Separan secciones dentro de un documento.
 
-Ejemplo 
+## Ejemplo 
 ---
 ***
 ___
 
 ---
 
-########## 9. Escape de caracteres
+###### 9. Escape de caracteres
 
 Permite mostrar caracteres que normalmente generan formato.
 
-Ejemplo
+### Ejemplo
 
 \*No es cursiva\*
 \# No es un título
@@ -134,11 +134,11 @@ Ejemplo
 
 ---
 
-############ 10. Bloques de texto literal
+###### 10. Bloques de texto literal
 
 Muestran texto exactamente como se escribe, sin interpretación Markdown.
 
-Ejemplo 
+##### Ejemplo 
 
 Este texto se muestra tal cual
 Sin formato aplicado
