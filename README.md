@@ -18,7 +18,7 @@ Markdown usa el símbolo `#` para crear títulos jerárquicos.
 
 ---
 
-### 2. Formato de texto 
+## 2. Formato de texto 
 
 Sirve para resaltar contenido, aplicar negritas, cursivas, tachado, subrayar o combinar estilos. 
 
@@ -33,7 +33,7 @@ Esto es **importante**, esto es *cursivo*, y esto está ~~incorrecto~~ corregido
 
 ---
 
-#### 3. Citas
+## 3. Citas
 
 Permiten destacar texto como referencias, comentarios o notas importantes.
 
@@ -49,7 +49,7 @@ Eemplo con citas anidadas
 
 ---
 
-##### 4. Listas
+## 4. Listas
 
 Se usan para organizar información en elementos ordenados, no ordenados o listas de tareas.
 
@@ -69,7 +69,7 @@ Ejemplo tarea
 
 ---
 
-###### 5. Enlaces e Imágenes
+## 5. Enlaces e Imágenes
 
 Permiten conectar a sitios web o mostrar imágenes mediante URL.
 
@@ -84,14 +84,14 @@ Con titulo
 
 ---
 
-###### 6. Código
+## 6. Código
 
 Se utiliza para mostrar comandos, ejemplos de programación o fragmentos de código.
 
-#Ejemplo codigo en linea 
+###Ejemplo codigo en linea 
 `console.log("Hola mundo");`
 
-#Ejemplo bloques de código
+###Ejemplo bloques de código
 ```javascript
 function saludo() {
   console.log("Hola desde JS");
@@ -100,10 +100,10 @@ saludo();
 
 ---
 
-###### 7. Tablas  
+## 7. Tablas  
 Sirven para organizar datos en filas y columnas.
 
-## Ejemplo  
+### Ejemplo  
 
 ```markdown
 | Nombre | Edad | País   |
@@ -111,7 +111,7 @@ Sirven para organizar datos en filas y columnas.
 | Ana    | 20   | México |
 | Luis   | 22   | Perú   |
 
-###### 8. Líneas divisorias
+## 8. Líneas divisorias
 
 Separan secciones dentro de un documento.
 
@@ -122,11 +122,11 @@ ___
 
 ---
 
-###### 9. Escape de caracteres
+## 9. Escape de caracteres
 
 Permite mostrar caracteres que normalmente generan formato.
 
-#### Ejemplo
+### Ejemplo
 
 \*No es cursiva\*
 \# No es un título
@@ -134,11 +134,11 @@ Permite mostrar caracteres que normalmente generan formato.
 
 ---
 
-###### 10. Bloques de texto literal
+## 10. Bloques de texto literal
 
 Muestran texto exactamente como se escribe, sin interpretación Markdown.
 
-##### Ejemplo 
+### Ejemplo 
 
 Este texto se muestra tal cual
 Sin formato aplicado
